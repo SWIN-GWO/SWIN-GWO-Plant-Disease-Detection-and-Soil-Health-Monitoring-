@@ -13,6 +13,7 @@
 
 🧠 Problem Statement
 Manual detection of plant diseases is:
+
 >Time‑consuming
 >Error‑prone
 >Not scalable
@@ -20,9 +21,15 @@ Manual detection of plant diseases is:
 <p align="center"> <img src="diagram-export-12-25-2025-10_45_31-PM (1).png"/> </p>
 
 This project automates:
+
 ✔ Disease identification
+
 ✔ Infected region localization
+
 ✔ Severity measurement
+
 ✔ Decision‑support via lifespan prediction
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+
 ![Accuracy](https://img.shields.io/badge/Accuracy-93%25-brightgreen)
