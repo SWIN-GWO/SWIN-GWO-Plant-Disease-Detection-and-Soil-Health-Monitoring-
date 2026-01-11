@@ -1,4 +1,4 @@
-🌿🌿 Leaf Disease Detection & Severity Analysis
+🌿SWIN-GWO Plant Disease Detection and Soil Helath Monitoring
 
 🚀 Swin Transformer + Grey Wolf Optimization + Faster R‑CNN
 🔍 An end‑to‑end deep learning system that not only identifies leaf diseases, but also locates infected regions, estimates severity, and predicts leaf lifespan.
