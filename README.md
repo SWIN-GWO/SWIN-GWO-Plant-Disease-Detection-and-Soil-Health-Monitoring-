@@ -1,6 +1,5 @@
 🌿 SWIN-GWO: Plant Disease Detection and Soil Health Monitoring
 🚀 Swin Transformer + Grey Wolf Optimization + Faster R‑CNN
-<p align="center"> <img src="diagram-export-12-25-2025-10_45_31-PM (1).png"/> </p>
 🔍 An end‑to‑end deep learning system that not only identifies leaf diseases, but also locates infected regions, estimates severity, and predicts leaf lifespan.
 
 ✨ Why This Project is Special
@@ -16,6 +15,8 @@ Manual detection of plant diseases is:
 >Time‑consuming
 >Error‑prone
 >Not scalable
+
+<p align="center"> <img src="diagram-export-12-25-2025-10_45_31-PM (1).png"/> </p>
 
 This project automates:
 ✔ Disease identification
