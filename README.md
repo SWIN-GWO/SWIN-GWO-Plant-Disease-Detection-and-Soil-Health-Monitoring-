@@ -1,3 +1,26 @@
-# SWIN-GWO: Plant Disease Detection and Soil Health Monitoring
-Swin-GWO: Optimization-Based Plant Disease Detection and Soil Health Monitoring in Smart Agriculture using Deep Learning Technique
-Smart agriculture has become essential for improving crop yield and maintaining soil quality through timely disease detection and soil health monitoring.Traditional methods for plant disease identification and soil assessment are often time-consuming, labor-intensive, and prone to human error. To address these challenges, our work proposes an intelligent deep learning framework, named Swin- GWO, which combines the Swin Transformer with the Grey Wolf Optimizer (GWO) for automated plant disease detection and soil health monitoring using real time inhouse image data clicked. The Swin Transformer was chosen for its hierarchical feature extraction and shifted window attention mechanism, which together enable efficient and accurate recognition of subtle visual patterns in plant leaves and soil textures. Compared to conventional CNNs and standard Vision Transformers, the Swin Transformer achieves higher accuracy while maintaining superior computational efficiency. The Grey Wolf Optimizer was employed to automatically fine- tune hyperparameters, such as learning rate, window size, and embedding dimensions, providing adaptive global optimization and avoiding local minima. The proposed model achieves high accuracy (based on the implementation) in classifying plant diseases and effectively assesses soil conditions with minimal training time. Quantitative evaluation with baseline models shows improved performance in terms of precision, recall, and F1-score. This proposed approach can significantly contribute to precision agriculture and sustainable farming practices.
+🌿 SWIN-GWO: Plant Disease Detection and Soil Health Monitoring
+🚀 Swin Transformer + Grey Wolf Optimization + Faster R‑CNN
+<p align="center"> <img src="outputs/output1.jpg" width="600"/> </p>
+🔍 An end‑to‑end deep learning system that not only identifies leaf diseases, but also locates infected regions, estimates severity, and predicts leaf lifespan.
+
+✨ Why This Project is Special
+✅ Vision Transformer–based classification
+🐺 Meta‑heuristic optimization (GWO)
+📦 Accurate region‑level localization
+📊 Severity analysis
+⏳ Lifespan estimation
+🧠 Explainable & practical agricultural AI
+
+🧠 Problem Statement
+Manual detection of plant diseases is:
+>Time‑consuming
+>Error‑prone
+>Not scalable
+
+This project automates:
+✔ Disease identification
+✔ Infected region localization
+✔ Severity measurement
+✔ Decision‑support via lifespan prediction
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![Accuracy](https://img.shields.io/badge/Accuracy-93%25-brightgreen)
